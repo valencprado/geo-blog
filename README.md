@@ -1,2 +1,2 @@
-# geo-blog
+# Blog de Geografia 📝🤓 
 Blog sobre atualidades relacionadas à geografia. Criada para o 3º ano do Ensino Médio.
